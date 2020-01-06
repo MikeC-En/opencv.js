@@ -1,4 +1,4 @@
-# ![opencv-logo](https://opencv-1251216093.cos.ap-shanghai.myqcloud.com/img/opencv-logo-small.png) OPENCV.JS
+# ![opencv-logo](https://raw.githubusercontent.com/Ouyang-Zhaoxing/opencv.js/master/opencv-logo.png) OPENCV.JS
 
 [English](https://github.com/Ouyang-Zhaoxing/opencv.js/blob/master/README_EN.md)
 
